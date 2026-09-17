@@ -9,13 +9,13 @@
     "address": "Berliner Straße 36",
     "postcode": "91074",
     "town": "Herzogenaurach",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 49.5772869,
+    "longitude": 10.9085853,
     "opening_hours": null,
     "website": null,
     "phone": null,
     "retrieved_at": "2026-09-17T20:00:00Z",
-    "geocoding_pending": true
+    "geocoding_pending": false
   },
   {
     "poi_id": "real_herzoaurach_spielplatz_ennodia",
@@ -27,13 +27,13 @@
     "address": "Schwester-Ennodia-Weg",
     "postcode": "91074",
     "town": "Herzogenaurach",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 49.5672684,
+    "longitude": 10.9023648,
     "opening_hours": null,
     "website": null,
     "phone": null,
     "retrieved_at": "2026-09-17T20:00:00Z",
-    "geocoding_pending": true
+    "geocoding_pending": false
   },
   {
     "poi_id": "real_herzoaurach_spielplatz_hammerbach",
@@ -81,13 +81,13 @@
     "address": "Bamberger Str. 2",
     "postcode": "91074",
     "town": "Herzogenaurach",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 49.5706594,
+    "longitude": 10.8822877,
     "opening_hours": null,
     "website": null,
     "phone": "+49 9132 74729 0",
     "retrieved_at": "2026-09-17T20:00:00Z",
-    "geocoding_pending": true
+    "geocoding_pending": false
   },
   {
     "poi_id": "real_herzoaurach_biergarten_ignatz",
@@ -117,13 +117,13 @@
     "address": "Hauptstraße 33",
     "postcode": "91074",
     "town": "Herzogenaurach",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 49.568692,
+    "longitude": 10.8812069,
     "opening_hours": "Mo, Mi, Fr 9–13 & ab 16 Uhr; Di 9–13 Uhr; Sa 9–15 Uhr; So 9–12 Uhr; Do Ruhetag",
     "website": null,
     "phone": "09132 2073",
     "retrieved_at": "2026-09-17T20:00:00Z",
-    "geocoding_pending": true
+    "geocoding_pending": false
   },
   {
     "poi_id": "real_herzoaurach_restaurant_landgasthofbaer",
@@ -135,12 +135,12 @@
     "address": "Burgstall 29",
     "postcode": "91074",
     "town": "Herzogenaurach",
-    "latitude": null,
-    "longitude": null,
+    "latitude": 49.5497863,
+    "longitude": 10.8770236,
     "opening_hours": null,
     "website": "https://landgasthofbaer.de/",
     "phone": null,
     "retrieved_at": "2026-09-17T20:00:00Z",
-    "geocoding_pending": true
+    "geocoding_pending": false
   }
 ]

@@ -20,7 +20,7 @@ import time
 import requests
 
 NOMINATIM_URL = "https://nominatim.openstreetmap.org/search"
-HEADERS = {"User-Agent": "SpielendLaden-Geocoder/1.0 (Kontakt: projekt-spielend-laden@example.invalid)"}
+HEADERS = {"User-Agent": "SpielendLaden-Geocoder/1.0 (Kontakt: bernd.trissler@gmx.de)"}
 
 
 def geocode(address, postcode, town, country="Deutschland"):

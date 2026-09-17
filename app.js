@@ -152,11 +152,11 @@ function render() {
 
 async function init() {
   const [csRes, poiRes] = await Promise.all([
-    fetch("data/charging_stations.json"),
-    fetch("data/pois.json")
+    fetch("data/real/charging_stations_real.json"),
+    fetch("data/real/pois_real.json")
   ]);
-  stations = await csRes.json();
-  pois = await poiRes.json();
+  stations = (await csRes.json()).filter((s) => s.latitude != null && s.longitude != null);
+  pois = (await poiRes.json()).filter((p) => p.latitude != null && p.longitude != null);
 
   renderCategoryFilters();
 

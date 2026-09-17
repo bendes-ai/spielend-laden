@@ -1,0 +1,152 @@
+[
+  {
+    "poi_id": "demo_poi_001",
+    "category": "Spielplatz",
+    "subcategory": "Spielplatz",
+    "name": "Spielplatz Am Marktplatz",
+    "town": "Herzogenaurach",
+    "latitude": 49.5661,
+    "longitude": 10.8892,
+    "osm_tags_json": "{\"leisure\":\"playground\"}"
+  },
+  {
+    "poi_id": "demo_poi_002",
+    "category": "Biergarten",
+    "subcategory": "Biergarten",
+    "name": "Biergarten Zum Löwen",
+    "town": "Herzogenaurach",
+    "latitude": 49.565,
+    "longitude": 10.8878,
+    "osm_tags_json": "{\"amenity\":\"biergarten\"}"
+  },
+  {
+    "poi_id": "demo_poi_003",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "name": "Restaurant Alte Post",
+    "town": "Herzogenaurach",
+    "latitude": 49.5655,
+    "longitude": 10.8899,
+    "osm_tags_json": "{\"amenity\":\"restaurant\"}"
+  },
+  {
+    "poi_id": "demo_poi_004",
+    "category": "Cafe",
+    "subcategory": "Cafe",
+    "name": "Café Sonnenschein",
+    "town": "Herzogenaurach",
+    "latitude": 49.5663,
+    "longitude": 10.888,
+    "osm_tags_json": "{\"amenity\":\"cafe\"}"
+  },
+  {
+    "poi_id": "demo_poi_005",
+    "category": "Einkauf",
+    "subcategory": "Einkauf_Supermarkt",
+    "name": "Supermarkt Frisch & Gut",
+    "town": "Herzogenaurach",
+    "latitude": 49.567,
+    "longitude": 10.8905,
+    "osm_tags_json": "{\"shop\":\"supermarket\"}"
+  },
+  {
+    "poi_id": "demo_poi_006",
+    "category": "WC",
+    "subcategory": "WC",
+    "name": "Öffentliche Toilette Marktplatz",
+    "town": "Herzogenaurach",
+    "latitude": 49.5659,
+    "longitude": 10.8889,
+    "osm_tags_json": "{\"amenity\":\"toilets\"}"
+  },
+  {
+    "poi_id": "demo_poi_007",
+    "category": "Park",
+    "subcategory": "Park",
+    "name": "Stadtpark Herzogenaurach",
+    "town": "Herzogenaurach",
+    "latitude": 49.5645,
+    "longitude": 10.886,
+    "osm_tags_json": "{\"leisure\":\"park\"}"
+  },
+  {
+    "poi_id": "demo_poi_008",
+    "category": "Spielplatz",
+    "subcategory": "Spielplatz",
+    "name": "Spielplatz Bahnhofpark",
+    "town": "Höchstadt a.d.Aisch",
+    "latitude": 49.715,
+    "longitude": 10.7305,
+    "osm_tags_json": "{\"leisure\":\"playground\"}"
+  },
+  {
+    "poi_id": "demo_poi_009",
+    "category": "Restaurant",
+    "subcategory": "Restaurant",
+    "name": "Gasthof Zur Aisch",
+    "town": "Höchstadt a.d.Aisch",
+    "latitude": 49.7138,
+    "longitude": 10.7288,
+    "osm_tags_json": "{\"amenity\":\"restaurant\"}"
+  },
+  {
+    "poi_id": "demo_poi_010",
+    "category": "Einkauf",
+    "subcategory": "Einkauf_Baeckerei",
+    "name": "Bäckerei Krumm",
+    "town": "Höchstadt a.d.Aisch",
+    "latitude": 49.7142,
+    "longitude": 10.73,
+    "osm_tags_json": "{\"shop\":\"bakery\"}"
+  },
+  {
+    "poi_id": "demo_poi_011",
+    "category": "Freizeit",
+    "subcategory": "Freizeit_Schwimmbad",
+    "name": "Freibad Baiersdorf",
+    "town": "Baiersdorf",
+    "latitude": 49.6225,
+    "longitude": 11.023,
+    "osm_tags_json": "{\"leisure\":\"swimming_pool\"}"
+  },
+  {
+    "poi_id": "demo_poi_012",
+    "category": "Cafe",
+    "subcategory": "Cafe",
+    "name": "Café am Regnitzufer",
+    "town": "Baiersdorf",
+    "latitude": 49.621,
+    "longitude": 11.0205,
+    "osm_tags_json": "{\"amenity\":\"cafe\"}"
+  },
+  {
+    "poi_id": "demo_poi_013",
+    "category": "Spielplatz",
+    "subcategory": "Spielplatz",
+    "name": "Spielplatz Freibadweg",
+    "town": "Eckental",
+    "latitude": 49.591,
+    "longitude": 11.1725,
+    "osm_tags_json": "{\"leisure\":\"playground\"}"
+  },
+  {
+    "poi_id": "demo_poi_014",
+    "category": "Park",
+    "subcategory": "Park",
+    "name": "Grünanlage Eckental",
+    "town": "Eckental",
+    "latitude": 49.5898,
+    "longitude": 11.17,
+    "osm_tags_json": "{\"leisure\":\"park\"}"
+  },
+  {
+    "poi_id": "demo_poi_015",
+    "category": "Einkauf",
+    "subcategory": "Einkauf_Convenience",
+    "name": "Dorfladen Heßdorf",
+    "town": "Heßdorf",
+    "latitude": 49.6489,
+    "longitude": 10.821,
+    "osm_tags_json": "{\"shop\":\"convenience\"}"
+  }
+]

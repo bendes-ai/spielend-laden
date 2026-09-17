@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Spielend laden – E-Auto-Ladepunkte mit POIs in der Nähe</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<header>
+  <h1>⚡ Spielend laden</h1>
+  <p>Ladepunkte im Landkreis Erlangen-Höchstadt kombiniert mit nahen Spielplätzen, Biergärten, Restaurants &amp; mehr.
+     <strong>MVP mit Beispieldaten (Demo)</strong> – keine Live-Daten.</p>
+</header>
+
+<div id="app">
+  <aside id="sidebar">
+    <div class="control-group">
+      <label for="radius">Radius: <span id="radiusValue">500</span> m</label>
+      <input type="range" id="radius" min="100" max="1000" step="50" value="500">
+    </div>
+
+    <div class="control-group">
+      <label>POI-Kategorien</label>
+      <div id="categoryFilters"></div>
+    </div>
+
+    <div class="control-group">
+      <label>Nur Ladepunkte mit mind. einem Treffer anzeigen</label>
+      <input type="checkbox" id="onlyMatches" checked>
+    </div>
+
+    <div id="stationList"></div>
+  </aside>
+
+  <main id="map"></main>
+</div>
+
+<footer>
+  <p>Datenquelle: Beispieldaten (Demo) nach dem Schema von Open Charge Map / OpenStreetMap.
+     Produktionsdaten folgen über die im Projekt dokumentierten Overpass-/OCM-Abfragen.</p>
+</footer>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

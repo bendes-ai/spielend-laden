@@ -1,0 +1,19 @@
+* { box-sizing: border-box; }
+body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, sans-serif; color: #1c1c1c; }
+header { background: #0b6e4f; color: #fff; padding: 1rem 1.5rem; }
+header h1 { margin: 0 0 0.25rem 0; font-size: 1.4rem; }
+header p { margin: 0; font-size: 0.85rem; opacity: 0.95; }
+#app { display: flex; height: calc(100vh - 96px); }
+#sidebar { width: 320px; padding: 1rem; overflow-y: auto; background: #f7f7f7; border-right: 1px solid #ddd; }
+#map { flex: 1; }
+.control-group { margin-bottom: 1rem; }
+.control-group label { display: block; font-weight: 600; margin-bottom: 0.4rem; font-size: 0.9rem; }
+#categoryFilters label { font-weight: 400; display: flex; align-items: center; gap: 0.4rem; margin-bottom: 0.25rem; font-size: 0.85rem; }
+#stationList { margin-top: 1rem; }
+.station-card { background: #fff; border: 1px solid #ddd; border-radius: 8px; padding: 0.6rem 0.8rem; margin-bottom: 0.6rem; cursor: pointer; }
+.station-card:hover { border-color: #0b6e4f; }
+.station-card h3 { margin: 0 0 0.3rem 0; font-size: 0.95rem; }
+.station-card .meta { font-size: 0.78rem; color: #555; }
+.station-card .badges { margin-top: 0.4rem; display: flex; flex-wrap: wrap; gap: 0.3rem; }
+.badge { background: #e5f3ee; color: #0b6e4f; border-radius: 12px; padding: 0.1rem 0.5rem; font-size: 0.72rem; }
+footer { padding: 0.5rem 1.5rem; font-size: 0.75rem; color: #666; background: #f0f0f0; }

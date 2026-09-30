@@ -23,3 +23,8 @@ E-Auto-Ladepunkte kombiniert mit nahen POIs (Spielplatz, Biergarten, …) im Lan
 
 ## Offene Punkte
 - 5 Adressen ohne Koordinaten (Engelgarten Höchstadt, bayernwerk-Ladestation, Spielplätze Hammerbach/Haydnstraße, Restaurant Ignatz)
+
+## Projektgedächtnis
+- Datenquellen und Methodik: `data/real/sources_real.md`, `README.md`
+- Offene Aufgaben: hier unter „Offene Punkte“ (keine `docs/status.md` vorhanden)
+
